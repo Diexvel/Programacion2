@@ -1,6 +1,6 @@
 # 🧠 Programación 2 – Trabajos Prácticos
 
-Este repositorio contiene todos los trabajos prácticos realizados para la materia **Programación 2**, cursada en [nombre de la institución o carrera, si querés agregarlo].
+Este repositorio contiene todos los trabajos prácticos realizados para la materia **Programación 2**, cursada en UNT (TECNICATURA EN PROGRAMACION).
 
 ## 📚 Contenido
 
