@@ -20,13 +20,13 @@ public class Curso {
 
     public void setProfesor(Profesor nuevoProfesor) {
     if (this.profesor != null && this.profesor != nuevoProfesor) {
-        this.profesor.getCursos().remove(this); // rompe vínculo anterior
+        this.profesor.getCursos().remove(this); 
     }
 
     this.profesor = nuevoProfesor;
 
     if (nuevoProfesor != null && !nuevoProfesor.getCursos().contains(this)) {
-        nuevoProfesor.getCursos().add(this); // agrega sin llamar a setProfesor()
+        nuevoProfesor.getCursos().add(this); 
     }
 }
     public void mostrarInfo() {
